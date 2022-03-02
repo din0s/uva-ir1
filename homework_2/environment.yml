@@ -1,13 +1,15 @@
-name: ir1
+name: ir1_hw2
 channels:
   - defaults
   - conda-forge
+  - pytorch
 dependencies:
-  - gensim==3.8.3
   - ipywidgets==7.5.1
-  - matplotlib==3.1.2
-  - nltk==3.4.5
+  - pytorch==1.8.0
   - numpy==1.18.1
-  - requests==2.22.0
+  - matplotlib==3.1.2
+  - pandas==1.1.5
   - tqdm==4.42.0
+  - six==1.14.0
+  - requests==2.22.0
   - python==3.6.5
