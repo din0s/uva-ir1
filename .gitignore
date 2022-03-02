@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # Custom directories
-datasets/
+./datasets/
 homework_1/datasets/
